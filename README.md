@@ -52,6 +52,7 @@ The project includes several  plots:
 2.Waterfall Plots: Detailed breakdown of individual patient predictions.
 
 3.Dependence Plots: Visualizing how risk increases as specific metrics (like Max HR) change.
+
 ---
 
 ### How to Run
