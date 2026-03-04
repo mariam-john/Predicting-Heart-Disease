@@ -11,7 +11,9 @@ Logistic Regression Accuracy:88.4%
 Logistic Regression AUC:0.94
 
 Key Features of the Analysis
+
 1.Advanced Feature Engineering
+
  1.Risk Indicator:Created a custom interaction feature based on the negative correlation between Thallium and Max HR. high Thallium (>6) combined with lower Max    HR (<150) was flagged as a high-risk state.
  2.skewness Correction:Applied `log1p` transformations to ST Depression and Cholesterol to normalize highly skewed distributions.
  3.Feature Scaling:Standardized numerical features (BP,Max HR,Age) using `StandardScaler` to ensure model stability.
