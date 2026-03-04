@@ -1,0 +1,5 @@
+Heart disease prediction
+Non-Linear Logic: XGBoost is a non-linear model, so it doesn't just add a flat "Sex" penalty; 
+it evaluates 'Sex' as a branch in a logic tree.
+Because Logistic Regression is a linear model, features do not "talk" to each other
+It doesn't matter if the man is 20 years old or 80 years old; the "Sex" part of the math always stays exactly +2.0.
