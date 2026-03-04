@@ -24,6 +24,7 @@ Used SHAP (SHLinearly Explainer & TreeExplainer)to explain "black-box" predictio
 *Language:Python
 * Libraries: Pandas, NumPy, Scikit-Learn, XGBoost
 * Visualization: Matplotlib, Seaborn, SHAP
+  
 Project Structure
 * `train.csv` / `test.csv`: Clinical datasets.
 * `heart_disease_analysis.ipynb`: The complete pipeline from EDA to model deployment.
